@@ -1,0 +1,26 @@
+{
+	"product": [{
+		"productDesc": "Running Shoe",
+		"productDiscount": "10",
+		"productName": "Footwear",
+		"productPrice": "2800",
+		"productType": "Men's wear",
+		"productBrand": "Provogue"
+	},
+	{
+		"productDesc": "Stretchable Jeans",
+		"productDiscount": "15",
+		"productName": "Jeans",
+		"productPrice": "3200",
+		"productType": "Women's wear",
+		"productBrand": "Wrangler"
+	},
+	{
+		"productDesc": "Long Gown",
+		"productDiscount": "20",
+		"productName": "Dresses",
+		"productPrice": "3400",
+		"productType": "Women's wear",
+		"productBrand": "Vero Moda"
+	}]
+}
